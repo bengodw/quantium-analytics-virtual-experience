@@ -1,8 +1,7 @@
 # Quantium Data Analytics Virtual Experience
 
-# Forage Quantium Data Analytics Virtual Experience Program
 My submission for this program's tasks:
-- Data preparation and customer analytics,
+- Data preparation and customer analytics
 - Experimentation and uplift testing
 
 ## Dependencies
